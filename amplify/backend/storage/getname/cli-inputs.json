@@ -1,0 +1,10 @@
+{
+  "resourceName": "getname",
+  "tableName": "getname",
+  "partitionKey": {
+    "fieldName": "email",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}

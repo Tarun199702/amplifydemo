@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/getname": {
+      "name": "/getname",
+      "lambdaFunction": "getName",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
