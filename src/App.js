@@ -1,10 +1,12 @@
  
 import MyForm from './components/form';
+import LoadBalancerDemo from './loadBalancer';
 
 function App() {
   return (
     <div >
-     <MyForm></MyForm>
+     {/* <MyForm></MyForm> */}
+     <LoadBalancerDemo></LoadBalancerDemo>
     </div>
   );
 }
